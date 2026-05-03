@@ -2,6 +2,10 @@
 
 ### DevOps + AIOps Engineer | Linux | CI/CD | Automation | Observability
 
+![Location](https://img.shields.io/badge/Based%20in-Utrecht%2C%20Netherlands-0f766e?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-1d4ed8?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Platform%20Reliability%20%26%20AIOps-7c3aed?style=flat-square)
+
 I build reliable platform systems and faster delivery pipelines for enterprise environments.
 
 - Based in Utrecht, Netherlands
@@ -15,6 +19,11 @@ I build reliable platform systems and faster delivery pipelines for enterprise e
 - Improving deployment quality with CI/CD and policy gates
 - Training AI-assisted operational workflows to improve speed and consistency
 - Reducing MTTD/MTTR through practical observability patterns
+
+## Featured Repositories
+
+- Portfolio Website: https://github.com/Mani01012001/Portfolio
+- GitHub Profile README: https://github.com/Mani01012001/Mani01012001
 
 ## Tech Stack
 
@@ -35,10 +44,22 @@ I build reliable platform systems and faster delivery pipelines for enterprise e
 - 99.9% sustained SLA uptime
 - AI-assisted workflows for incident summaries, RCA drafts, and change-risk briefs
 
+## Recommended Profile Pinning
+
+- Portfolio
+- Mani01012001 (profile README)
+- the-book-of-secret-knowledge
+
 ## Portfolio and Resume
 
 - Portfolio: https://mani01012001.github.io/Portfolio/
 - Resume: https://mani01012001.github.io/Portfolio/resume.html
+
+## Open To
+
+- Platform Engineer roles
+- DevOps and AIOps Engineering roles
+- Reliability and production support engineering roles
 
 ## Connect
 
